@@ -1,0 +1,17 @@
+name: CI initiate De session
+
+on: [push] www.Facebook.com/biscochitovazquez5
+
+jobs:www.Facebook.com/biscochitovazquez5
+  build : checked password
+
+    runs-on: 
+
+    steps: 3
+    - uses: actions/checkout@v2
+    - name: biscochito Vazquez 
+      run: checks password 
+    - name: ana Luisa Vazquez simon 
+      run: |checkd password
+        echo Add other actions to build,
+        echo test, and deploy your project. Messenger 
